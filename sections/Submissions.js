@@ -10,18 +10,17 @@ const Submissions = () => (
     <a className='target' id='submissions'/>
     <h2 className='display-4 anchor mb-3'>Submissions</h2>
     <p>
-      We invite research papers in two categories: Full Papers (up to 14 pages), and Short Papers (up to 8 pages). Papers must be in English and present original, not already published research. Authors should consult Springer's authors' guidelines and use their proceedings templates, either for LaTeX (prefered) or for Word, for the preparation of their papers: <br />
+      We invite research papers in two categories: full papers (up to 12 pages), and short/demo papers (up to 8 pages). Papers must be in English and present original, not already published research. Authors should consult Springer's authors' guidelines and use their proceedings templates, either for LaTeX (prefered) or for Word, for the preparation of their papers: <br />
 
       <a href="https://www.springer.com/gp/authors-editors/conference-proceedings/conference-proceedings-guidelines">https://www.springer.com/gp/authors-editors/conference-proceedings/conference-proceedings-guidelines</a>
     </p>
     <p>
       Springer encourages authors to include their ORCIDs in their papers. In addition, the corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a Consent-to-Publish form. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.
     </p>
-    <p>
-      Submission is done through the EasyChair Conference System. After the paper submission has been successfully completed, authors will receive an automatic confirmation e-mail.
+    <p>Papers should be submitted in PDF format using the EasyChair Conference System. After the paper submission has been successfully completed, authors will receive an automatic confirmation e-mail.
     </p>
       <Row className="justify-content-center my-3">
-        <Button className="btn-lg" href='https://easychair.org'>Submit a paper</Button>
+        <Button className="btn-lg" href='https://easychair.org/conferences/?conf=pers2023'>Submit a paper</Button>
       </Row>
 
   </Container>
