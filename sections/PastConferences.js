@@ -17,24 +17,18 @@ const conferences = [
 
 
 const PastConferences = () => (
-  <Container fluid="md" className='section pb-5 px-4 mt-5'>
-
+  <Container className="bg-white section p-4 my-5">
     <a className='target' id='conferences'/>
-    <h2 className="display-4 anchor mb-3">Past Workshops</h2>    
-    <Row className="justify-content-md-center m-1">
-      {conferences.map(c => (
-      <Col key={c.title} md='auto' className="m-2">
-        <Card style={{ width: '16rem' }} className="mx-auto">
-          <Card.Header><a href={c.website} className='text-body'>{c.title}</a> ({c.location})</Card.Header>
-          <Card.Body>
-            <Card.Link href={c.proceedings_regular} className="ml-2 badge badge-light text-primary">Regular papers</Card.Link>
-            <Card.Link href={c.proceedings_communication} className="ml-2 badge badge-light text-primary">Communication papers</Card.Link>
-            <Card.Link href={c.proceedings_position} className="ml-2 badge badge-light text-primary">Position papers</Card.Link>
-          </Card.Body>          
-        </Card>
-      </Col>
-      ))}
-    </Row>
+    <h2 className='display-4 anchor mb-3'>Past Workshops</h2>
+    <ListGroup variant='flush' >
+      <ListGroup.Item><h4>1st Workshop on Personalization and Recommender Systems (<a href='https://fedcsis.org/2022/pers/'>PeRS@FedCSIS'22</a>):</h4>
+        <ListGroup variant='flush'>
+        <ListGroup.Item className="border-0"><i className="far fa-check-square text-primary mr-3"/>Regular papers: <a href='https://annals-csis.org/Volume_30/'>https://annals-csis.org/Volume_30/</a></ListGroup.Item>
+        <ListGroup.Item className="border-0"><i className="far fa-check-square text-primary mr-3"/>Communication papers: <a href='https://annals-csis.org/Volume_32/'>https://annals-csis.org/Volume_32/</a></ListGroup.Item>
+        <ListGroup.Item className="border-0"><i className="far fa-check-square text-primary mr-3"/>Position papers: <a href='https://annals-csis.org/Volume_31/'>https://annals-csis.org/Volume_31/</a></ListGroup.Item>
+      </ListGroup>
+    </ListGroup.Item>	
+    </ListGroup>
   </Container>
 )
 
