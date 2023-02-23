@@ -23,6 +23,8 @@ const Submissions = () => (
         <Button className="btn-lg" href='https://easychair.org/conferences/?conf=pers2023'>Submit a paper</Button>
       </Row>
 
+    <p>Accepted papers will be published by Springer in Communications in Computer and Information Science (CCIS). CCIS volumes are made available to the following indexing services: Web of Science; Scopus, EI Engineering Index; ACM Digital Library; DBLP; Google Scholar.</p>
+
   </Container>
 )
 
