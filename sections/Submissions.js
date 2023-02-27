@@ -24,6 +24,10 @@ const Submissions = () => (
       </Row>
 
     <p>Accepted papers will be published by Springer in Communications in Computer and Information Science (CCIS). CCIS volumes are made available to the following indexing services: Web of Science; Scopus, EI Engineering Index; ACM Digital Library; DBLP; Google Scholar.</p>
+    <p>
+      An extended version of the best papers will be forwarded for further procedure in <em>Computer Science and Information Systems</em> (<a href="http://www.comsis.org">ComSIS</a>, IF: 1.167).
+    </p>
+
 
   </Container>
 )
