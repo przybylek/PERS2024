@@ -169,7 +169,7 @@ export const countryCodes = {
     'Oman': 'OM',
     'Pakistan': 'PK',
     'Palau': 'PW',
-    'Palestinian Territory, Occupied': 'PS',
+    'Palestine': 'PS',
     'Panama': 'PA',
     'Papua New Guinea': 'PG',
     'Paraguay': 'PY',
