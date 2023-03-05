@@ -6,7 +6,7 @@ import Col from 'react-bootstrap/Col'
 
 
 const Submissions = () => (
-  <Container className="bg-white section p-4 my-5">
+  <Container className="bg-white section p-4 my-5 rounded">
     <a className='target' id='submissions'/>
     <h2 className='display-4 anchor mb-3'>Submissions</h2>
     <p>

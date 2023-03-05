@@ -1,7 +1,7 @@
 import Container from 'react-bootstrap/Container'
 
 const About = () => (
-  <Container className="bg-white section p-4 mb-5">
+  <Container className="bg-white section p-4 mb-5 rounded">
     <a className='target' id='about'/>
     <h2 className="display-4 anchor mb-3">About</h2>
     <p>Recommender systems are present in our everyday lives when we read news, log in to social media, or buy something in an e-shop. Therefore, it is not surprising that this domain is receiving more and more attention from researchers in academia as well as industry practitioners. However, the way in which they approach the same problem differs significantly.</p>
