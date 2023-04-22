@@ -14,7 +14,7 @@ const Header = () => (
           <h1 className='h1 text-center anchor font-weight-bold'>PeRS@<a className='u' href='https://www.essi.upc.edu/dtim/ADBIS2023/'>ADBIS'23</a></h1>
           <h2 className='text-center h3 py-3'>2nd Workshop on <strong>Personalization and Recommender Systems</strong></h2>
           <h2 className='text-center h4 pb-3'><small>at the 27th European Conference on Advances in Databases and Information Systems</small></h2>
-          <h4 className='text-center h5'>September 4-7, 2023</h4>
+          <h4 className='text-center h5'>September 4, 2023</h4>
           <h4 className='text-center h5'>Barcelona, Spain</h4>
         </div>
         </div>
