@@ -16,7 +16,7 @@ const Program = () => (
     <Table bordered className="mt-5">
       <tbody>	
 
-        <tr className='text-center table-primary'><th>Monday, Sept. 4th 2023 (room: TBA)</th><th>session chair: Olga Cherednichenko</th></tr>
+        <tr className='text-center table-primary'><th>Monday, Sept. 4th 2023 (A4206)</th><th>session chair: Olga Cherednichenko</th></tr>
         <tr><td className='text-nowrap'>14:00 - 14:10</td><td><a href='/' target="_blank" rel="noopener noreferrer">Workshop opening</a> (<em>Adam Przybyłek</em>)</td></tr>
 
         <tr><td className='text-nowrap'>14:10 - 14:30</td><td>A Recommendation System for Personalized Daily Life Services to Promote Frailty Prevention (<em>Ghassen Frikha, Xavier Lorca, Herve Pingaud, Adel Taweel, Christophe Bortolaso, Katarzyna Borgiel and Elyes Lamine</em>)</td></tr>
@@ -26,7 +26,7 @@ const Program = () => (
 
         <tr><th className='text-center table-secondary' colSpan={2}></th></tr>
 
-        <tr className='text-center table-primary'><th>Monday, Sept. 4th 2023 (room: TBA)</th><th>session chair: Ghassen Frikha</th></tr>
+        <tr className='text-center table-primary'><th>Monday, Sept. 4th 2023 (A4206)</th><th>session chair: Ghassen Frikha</th></tr>
         <tr><td className='text-nowrap'>16:00 - 16:20</td><td>Overcoming the Cold-Start Problem in Recommendation Systems with Ontologies and Knowledge Graphs (<em>Stanislav Kuznetsov and Pavel Kordik</em>)</td></tr>
         <tr><td className='text-nowrap'>16:20 - 16:35</td><td>Recommender Chatbot as a Tool for Collaborative Business Intelligence in Tourism Domain (<em>Olga Cherednichenko and Fahad Muhammad</em>)</td></tr>
         <tr><td className='text-nowrap'>16:35 - 16:50</td><td>Neural Graph Collaborative Filtering: analysis of possibilities on diverse datasets (<em>Dariusz Kobiela, Jan Groth, Michał Sieczczyński, Rafał Wolniak and Krzysztof Pastuszak</em>)</td></tr>
