@@ -17,7 +17,7 @@ const Program = () => (
       <tbody>	
 
         <tr className='text-center table-primary'><th>Monday, Sept. 4th 2023 (A4206)</th><th>session chair: Olga Cherednichenko</th></tr>
-        <tr><td className='text-nowrap'>14:00 - 14:10</td><td><a href='/' target="_blank" rel="noopener noreferrer">Workshop opening</a> (<em>Adam Przybyłek</em>)</td></tr>
+        <tr><td className='text-nowrap'>14:00 - 14:10</td><td><a href='/PeRS_2023.pdf' target="_blank" rel="noopener noreferrer">Workshop opening</a> (<em>Adam Przybyłek</em>)</td></tr>
 
         <tr><td className='text-nowrap'>14:10 - 14:30</td><td>A Recommendation System for Personalized Daily Life Services to Promote Frailty Prevention (<em>Ghassen Frikha, Xavier Lorca, Herve Pingaud, Adel Taweel, Christophe Bortolaso, Katarzyna Borgiel and Elyes Lamine</em>)</td></tr>
         <tr><td className='text-nowrap'>14:30 - 14:45</td><td>Design-focused Development of a Course Recommender System for Digital Study Planning (<em>Michaela Ochs, Tobias Hirmer, Katherina Past and Andreas Henrich</em>)</td></tr>
