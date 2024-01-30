@@ -20,7 +20,15 @@ const PastConferences = () => (
   <Container className="bg-white section p-4 my-5">
     <a className='target' id='conferences'/>
     <h2 className='display-4 anchor mb-3'>Past Workshops</h2>
+
+
     <ListGroup variant='flush' >
+      <ListGroup.Item><h4>2st Workshop on Personalization and Recommender Systems (<a href='https://pers2023.lasd.pl'>PeRS@ADBIS'23</a>):</h4>
+        <ListGroup variant='flush'>
+        <ListGroup.Item className="border-0"><i className="far fa-check-square text-primary mr-3"/>Regular papers: <a href='https://link.springer.com/book/10.1007/978-3-031-42941-5'>https://link.springer.com/book/10.1007/978-3-031-42941-5</a></ListGroup.Item>
+      </ListGroup>
+    </ListGroup.Item>	
+
       <ListGroup.Item><h4>1st Workshop on Personalization and Recommender Systems (<a href='https://fedcsis.org/2022/pers/'>PeRS@FedCSIS'22</a>):</h4>
         <ListGroup variant='flush'>
         <ListGroup.Item className="border-0"><i className="far fa-check-square text-primary mr-3"/>Regular papers: <a href='https://annals-csis.org/Volume_30/'>https://annals-csis.org/Volume_30/</a></ListGroup.Item>
