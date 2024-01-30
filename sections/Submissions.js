@@ -20,13 +20,12 @@ const Submissions = () => (
     <p>Papers should be submitted in PDF format using the EasyChair Conference System. After the paper submission has been successfully completed, authors will receive an automatic confirmation e-mail.
     </p>
       <Row className="justify-content-center my-3">
-        <Button className="btn-lg" href='https://easychair.org/conferences/?conf=pers2023'>Submit a paper</Button>
+        <Button className="btn-lg" href='https://easychair.org/conferences/?conf=pers2024'>Submit a paper</Button>
       </Row>
 
-    <p>Accepted papers will be published by Springer in Communications in Computer and Information Science (CCIS). CCIS volumes are made available to the following indexing services: Web of Science; Scopus, EI Engineering Index; ACM Digital Library; DBLP; Google Scholar.</p>
+    <p>The workshop papers will be published by Springer in Communications in Computer and Information Science (CCIS). CCIS volumes are made available to the following indexing services: Web of Science; Scopus, EI Engineering Index; ACM Digital Library; DBLP; Google Scholar.</p>
     <p>The present registry of conferences maintained by Polish Ministry of Education and Science assigns 70 points to ADBIS as well as its workshop publications.</p>
-    <p>
-      An extended version of the best papers will be forwarded for further procedure in <em>Computer Science and Information Systems</em> (<a href="http://www.comsis.org">ComSIS</a>, IF: 1.167).
+    <p>The authors of selected workshop papers will be invited to submit an extended version of their contributions to a special issue of an international journal.      
     </p>
 
 
