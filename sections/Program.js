@@ -7,14 +7,6 @@ import React from 'react'
 import Clock from 'react-live-clock'
 
 
-const Program = () => (
-    <Container className="bg-white section p-4 rounded">
-    <a className='target' id='program'/>
-    <h2 className='display-4 anchor mb-3'>Program</h2>
-    <h3>TBA...</h3>
-  </Container>
-)
-
 /*
 const Program = () => (
     <Container className="bg-white section p-4 rounded">
@@ -46,7 +38,17 @@ const Program = () => (
     </Table>
   </Container>
 )
-/*
+*/
+
+const Program = () => (
+    <Container className="bg-white section p-4 rounded">
+    <a className='target' id='program'/>
+    <h2 className='display-4 anchor mb-3'>Program</h2>
+    <h3>TBA...</h3>
+  </Container>
+)
+
+
 
 export default Program
 
