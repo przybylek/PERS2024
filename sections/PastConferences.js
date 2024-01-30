@@ -23,7 +23,7 @@ const PastConferences = () => (
 
 
     <ListGroup variant='flush' >
-      <ListGroup.Item><h4>2st Workshop on Personalization and Recommender Systems (<a href='https://pers2023.lasd.pl'>PeRS@ADBIS'23</a>):</h4>
+      <ListGroup.Item><h4>2nd Workshop on Personalization and Recommender Systems (<a href='https://pers2023.lasd.pl'>PeRS@ADBIS'23</a>):</h4>
         <ListGroup variant='flush'>
         <ListGroup.Item className="border-0"><i className="far fa-check-square text-primary mr-3"/>Regular papers: <a href='https://link.springer.com/book/10.1007/978-3-031-42941-5'>https://link.springer.com/book/10.1007/978-3-031-42941-5</a></ListGroup.Item>
       </ListGroup>

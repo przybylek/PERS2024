@@ -8,14 +8,14 @@ const Header = () => (
     <Container className="px-0 py-1">
       <div className="row align-items-center">
         <div className="col-md-6">
-		      <Image src="/Barcelona.jpg" alt='Barcelona' fluid />
+		      <Image src="/Bayonne.jpg" alt='Bayonne' fluid />
         </div>
         <div className="col-md-6">
-          <h1 className='h1 text-center anchor font-weight-bold'>PeRS@<a className='u' href='https://www.essi.upc.edu/dtim/ADBIS2023/'>ADBIS'23</a></h1>
-          <h2 className='text-center h3 py-3'>2nd Workshop on <strong>Personalization and Recommender Systems</strong></h2>
-          <h2 className='text-center h4 pb-3'><small>at the 27th European Conference on Advances in Databases and Information Systems</small></h2>
-          <h4 className='text-center h5'>September 4, 2023</h4>
-          <h4 className='text-center h5'>Barcelona, Spain</h4>
+          <h1 className='h1 text-center anchor font-weight-bold'>PeRS@<a className='u' href='https://conferences.sigappfr.org/adbis2024/'>ADBIS'24</a></h1>
+          <h2 className='text-center h3 py-3'>3rd Workshop on <strong>Personalization and Recommender Systems</strong></h2>
+          <h2 className='text-center h4 pb-3'><small>at the 28th European Conference on Advances in Databases and Information Systems</small></h2>
+          <h4 className='text-center h5'>August 28, 2024</h4>
+          <h4 className='text-center h5'>Bayonne, France</h4>
         </div>
         </div>
     </Container>
