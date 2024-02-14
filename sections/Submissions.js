@@ -20,7 +20,7 @@ const Submissions = () => (
     <p>Papers should be submitted in PDF format using the EasyChair Conference System. After the paper submission has been successfully completed, authors will receive an automatic confirmation e-mail.
     </p>
       <Row className="justify-content-center my-3">
-        <Button className="btn-lg" href='https://easychair.org/conferences/?conf=pers2024'>Submit a paper</Button>
+        <Button className="btn-lg" href='https://easychair.org/conferences/?conf=adbis2024'>Submit a paper</Button>
       </Row>
 
     <p>The workshop papers will be published by Springer in Communications in Computer and Information Science (CCIS). CCIS volumes are made available to the following indexing services: Web of Science; Scopus, EI Engineering Index; ACM Digital Library; DBLP; Google Scholar.</p>
