@@ -6,8 +6,6 @@ import Col from 'react-bootstrap/Col'
 import React from 'react'
 import Clock from 'react-live-clock'
 
-
-/*
 const Program = () => (
     <Container className="bg-white section p-4 rounded">
     <a className='target' id='program'/>
@@ -18,28 +16,20 @@ const Program = () => (
     <Table bordered className="mt-5">
       <tbody>	
 
-        <tr className='text-center table-primary'><th>Monday, Sept. 4th 2023 (A4206)</th><th>session chair: Olga Cherednichenko</th></tr>
-        <tr><td className='text-nowrap'>14:00 - 14:10</td><td><a href='/PeRS_2023.pdf' target="_blank" rel="noopener noreferrer">Workshop opening</a> (<em>Adam Przybyłek</em>)</td></tr>
+        <tr className='text-center table-primary'><th>Wednesday, August 28th</th><th>session chair: Justyna Głogowska</th></tr>
 
-        <tr><td className='text-nowrap'>14:10 - 14:30</td><td>A Recommendation System for Personalized Daily Life Services to Promote Frailty Prevention (<em>Ghassen Frikha, Xavier Lorca, Herve Pingaud, Adel Taweel, Christophe Bortolaso, Katarzyna Borgiel and Elyes Lamine</em>)</td></tr>
-        <tr><td className='text-nowrap'>14:30 - 14:45</td><td>Design-focused Development of a Course Recommender System for Digital Study Planning (<em>Michaela Ochs, Tobias Hirmer, Katherina Past and Andreas Henrich</em>)</td></tr>
-        <tr><td className='text-nowrap'>14:45 - 15:00</td><td>Systematic Literature Review on Click Through Rate Prediction (<em>Paulina Leszczełowska, Maria Bollin and Marcin Grabski</em>)</td></tr>        
-
-
-        <tr><th className='text-center table-secondary' colSpan={2}></th></tr>
-
-        <tr className='text-center table-primary'><th>Monday, Sept. 4th 2023 (A4206)</th><th>session chair: Ghassen Frikha</th></tr>
-        <tr><td className='text-nowrap'>16:00 - 16:20</td><td>Overcoming the Cold-Start Problem in Recommendation Systems with Ontologies and Knowledge Graphs (<em>Stanislav Kuznetsov and Pavel Kordik</em>)</td></tr>
-        <tr><td className='text-nowrap'>16:20 - 16:35</td><td>Recommender Chatbot as a Tool for Collaborative Business Intelligence in Tourism Domain (<em>Olga Cherednichenko and Fahad Muhammad</em>)</td></tr>
-        <tr><td className='text-nowrap'>16:35 - 16:50</td><td>Neural Graph Collaborative Filtering: analysis of possibilities on diverse datasets (<em>Dariusz Kobiela, Jan Groth, Michał Sieczczyński, Rafał Wolniak and Krzysztof Pastuszak</em>)</td></tr>
-        <tr><td className='text-nowrap'>16:50 - 17:05</td><td>Performance and reproducibility of BERT4Rec on Netflix Price Dataset (<em>Aleksandra Gałka, Jan Grubba and Krzysztof Walentukiewicz</em>)</td></tr>
+        <tr><td className='text-nowrap'>16:00 - 16:15</td><td>Development of Collaborative Business Intelligence Framework for Tourism Analysis (<em>Olga Cherednichenko and Oleksandr Sutiahin</em>)</td></tr>
+        <tr><td className='text-nowrap'>16:15 - 16:30</td><td>Session-based Recommendation with Graph Neural Networks with an Examination of the Impact of Local and Global Vectors (<em>Justyna Głogowska, Dariusz Kobiela and Szymon Mielewczyk</em>)</td></tr>
+        <tr><td className='text-nowrap'>16:30 - 16:45</td><td>Senselife: Service Recommendation and Frailty Prevention through Knowledge Models (<em>Ghassen Frikha, Xavier Lorca, Pingaud Herve, Adel Taweel, Christophe Bortolaso, Katarzyna Borgiel and Elyes Lamine</em>)</td></tr>        
+        <tr><td className='text-nowrap'>16:30 - 16:45</td><td>Evaluating Diversity in Sequential Group Recommendations (<em>Haider Zulfiqar, Emilia Lenzi and Kostas Stefanidis</em>)</td></tr>        
 
       </tbody>
     </Table>
   </Container>
 )
-*/
 
+
+/*
 const Program = () => (
     <Container className="bg-white section p-4 rounded">
     <a className='target' id='program'/>
@@ -47,7 +37,7 @@ const Program = () => (
     <h3>TBA...</h3>
   </Container>
 )
-
+*/
 
 
 export default Program
